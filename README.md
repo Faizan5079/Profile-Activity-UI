@@ -4,7 +4,7 @@ This repository contains the implementation of the **Profile Activity UI** based
 
 ## 📱 Preview
 
-<img src="screenshots/screen1.jpg" width="300" alt="Profile Screen Screenshot" />
+<img src="https://github.com/Faizan5079/Profile-Activity-UI/blob/master/profile_assignment%5B1%5D.jpg?raw=true" width="300" alt="Profile Screen Screenshot" />
 
 ## 🚀 Features
 
