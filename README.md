@@ -23,7 +23,9 @@ This repository contains the implementation of the **Profile Activity UI** based
 - **Minimum SDK**: 21
 - **Vector Assets**: Used for icons (tinted)
 
+
 ## 📂 Project Structure
+
 
 app/
 ├── res/
